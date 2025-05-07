@@ -9,14 +9,7 @@
         android:id="@+id/locationTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hola Mundo"
-        android:textSize="18sp"
-        android:layout_marginBottom="16dp"/>
-
-    <Button
-        android:id="@+id/buttonClick"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Haz clic" />
+        android:text="Esperando ubicación..."
+        android:textSize="24sp" />
 
 </LinearLayout>

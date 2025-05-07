@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|c:\\users\\programdor junior 2\\documents\\proyectos\\proyectosandroid\\pruebas\\proyecto de afiliacion\\apiappafiliacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|c:\\users\\programdor junior 2\\documents\\proyectos\\proyectosandroid\\pruebas\\proyecto de afiliacion\\apiappafiliacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|c:\\users\\programdor junior 2\\documents\\proyectos\\proyectosandroid\\pruebas\\proyecto de afiliacion\\apiappafiliacion\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|solutionrelative:data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|c:\\users\\programdor junior 2\\documents\\proyectos\\proyectosandroid\\pruebas\\proyecto de afiliacion\\apiappafiliacion\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1CC7C-35AD-4209-9E34-C70DF1EA280A}|ApiAppAfiliacion.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:27:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T22:25:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:24:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\Programdor Junior 2\\Documents\\Proyectos\\ProyectosAndroid\\Pruebas\\Proyecto de Afiliacion\\ApiAppAfiliacion\\Models\\Compra.cs",
+              "RelativeToolTip": "Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:23:02.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
